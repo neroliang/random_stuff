@@ -31,3 +31,4 @@
 		html: "<h1>This is the content of the headline</h1><p>This is a text section <strong>containing</strong> <em>simple</em> Markdown.</p><h2>Subheadline content</h2><p>This is another text section <strong>containing</strong> <em>simple</em> Markdown.</p><div class='centered'><img src='http://www.digitalnz.org/thumbnails/from_large/664/?resize=520x840&src=https%3A%2F%2Ffarm4.staticflickr.com%2F3871%2F14644744150_e6cff4dfea_z.jpg'/></div>"
 			
 	}
+}
